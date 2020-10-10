@@ -1,12 +1,12 @@
 {
   "ConsentForms": [
     {
-      "id": '5f802d9c9ab8c0142e7cf768',
+      "id": "5f802d9c9ab8c0142e7cf768",
       "name": "Dental Treatment",
       "url": "/fill/5f802d9c9ab8c0142e7cf768"
     },
     {
-      "userId": '5f802d9c9ab8c0142e7cf76999',
+      "id": "5f802d9c9ab8c0142e7cf76999",
       "name": "General Treatment",
       "url": "/fill/5f802d9c9ab8c0142e7cf768"
     }]
