@@ -3,11 +3,32 @@
     {
       "id": "5f802d9c9ab8c0142e7cf768",
       "name": "dental treatment",
+      "status": "Active",
       "url": "fill/5f802d9c9ab8c0142e7cf768"
     },
     {
       "id": "5f802d9c9ab8c0142e7cf769",
       "name": "general treatment",
+      "status": "Dummy",
       "url": "fill/5f802d9c9ab8c0142e7cf768"
-    }]
+    },
+    {
+      "id": "5f802d9c9ab8c0142e7cf710",
+      "name": "X-ray",
+      "status": "Dummy",
+      "url": "fill/5f802d9c9ab8c0142e7cf768"
+    },
+    {
+      "id": "5f802d9c9ab8c0142e7cf711",
+      "name": "general surgery",
+      "status": "Dummy",
+      "url": "fill/5f802d9c9ab8c0142e7cf768"
+    },
+    {
+      "id": "5f802d9c9ab8c0142e7cf714",
+      "name": "minor treatment",
+      "status": "Dummy",
+      "url": "fill/5f802d9c9ab8c0142e7cf768"
+    }
+  ]
 }
