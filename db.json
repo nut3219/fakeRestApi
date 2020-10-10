@@ -1,13 +1,11 @@
 {
   "ConsentForms": [
     {
-      "userId": 1,
       "id": "5f802d9c9ab8c0142e7cf768",
       "name": "dental treatment",
       "url": "fill/5f802d9c9ab8c0142e7cf768"
     },
     {
-      "userId": 1,
       "id": "5f802d9c9ab8c0142e7cf768",
       "name": "general treatment",
       "url": "fill/5f802d9c9ab8c0142e7cf768"
